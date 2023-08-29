@@ -1,5 +1,5 @@
 baseURL = 'https://chillaxplaya.github.io/'
 languageCode = 'en-zh'
-title = 'My New Hugo Site'
+title = 'lqw'
 publishDir = 'docs'
 theme = 'ananke'
