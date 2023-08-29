@@ -1,4 +1,4 @@
-baseURL = 'http://chillaxplaya.github.io/'
+baseURL = 'https://chillaxplaya.github.io/'
 languageCode = 'en-zh'
 title = 'My New Hugo Site'
 publishDir = 'docs'
