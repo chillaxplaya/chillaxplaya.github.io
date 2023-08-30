@@ -1,5 +1,5 @@
 baseURL = 'https://chillaxplaya.github.io/'
-languageCode = 'en-zh'
-title = 'lqw'
+languageCode = 'zh-cn'
+title = 'playa's blog'
 publishDir = 'docs'
 theme = 'paper'
