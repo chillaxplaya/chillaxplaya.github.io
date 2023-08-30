@@ -1,6 +1,6 @@
 baseURL = 'https://chillaxplaya.github.io/'
 languageCode = 'zh-cn'
-title = 'playa\'s blog'
+title = 'playa blog'
 publishDir = 'docs'
 theme = 'paper'
 disqusShortname = 'YOUR_DISQUS_SHORTNAME'   # use disqus comments
