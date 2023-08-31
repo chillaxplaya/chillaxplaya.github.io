@@ -1,5 +1,5 @@
 baseURL = "https://examplesite.com/"
-title = "ExampleSit11e"
+title = "playa's blog"
 paginate = 5
 theme = "PaperMod"
 enableRobotsTXT = true
@@ -70,7 +70,7 @@ tocopen = false
     url = "tags"
 
   [params.homeInfoParams]
-  Title = "Hi there 👋"
+  Title = "Hi there ❤"
   Content = "Welcome to my blog"
 
   [[params.socialIcons]]
