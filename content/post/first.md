@@ -2,7 +2,7 @@
 title: "我的第一篇文章"
 date: 2023-08-29T15:32:49+08:00
 draft: false
-tags: ["a","b","c","d","e","f"]
+tags: ["a"]
 categories: ["1","2","3"]
 ---
 **123**
