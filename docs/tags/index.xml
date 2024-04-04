@@ -1,65 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on playa&#39;s blog</title>
-    <link>https://examplesite.com/tags/</link>
-    <description>Recent content in Tags on playa&#39;s blog</description>
+    <title>Tags on My New Hugo Site</title>
+    <link>http://localhost:1996/tags/</link>
+    <description>Recent content in Tags on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Tue, 29 Aug 2023 15:32:49 +0800</lastBuildDate><atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>a</title>
-      <link>https://examplesite.com/tags/a/</link>
-      <pubDate>Tue, 29 Aug 2023 15:32:49 +0800</pubDate>
-      
-      <guid>https://examplesite.com/tags/a/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>b</title>
-      <link>https://examplesite.com/tags/b/</link>
-      <pubDate>Tue, 29 Aug 2023 15:32:49 +0800</pubDate>
-      
-      <guid>https://examplesite.com/tags/b/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>c</title>
-      <link>https://examplesite.com/tags/c/</link>
-      <pubDate>Tue, 29 Aug 2023 15:32:49 +0800</pubDate>
-      
-      <guid>https://examplesite.com/tags/c/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>d</title>
-      <link>https://examplesite.com/tags/d/</link>
-      <pubDate>Tue, 29 Aug 2023 15:32:49 +0800</pubDate>
-      
-      <guid>https://examplesite.com/tags/d/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>e</title>
-      <link>https://examplesite.com/tags/e/</link>
-      <pubDate>Tue, 29 Aug 2023 15:32:49 +0800</pubDate>
-      
-      <guid>https://examplesite.com/tags/e/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>f</title>
-      <link>https://examplesite.com/tags/f/</link>
-      <pubDate>Tue, 29 Aug 2023 15:32:49 +0800</pubDate>
-      
-      <guid>https://examplesite.com/tags/f/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-us</language>
+    <atom:link href="http://localhost:1996/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
